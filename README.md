@@ -208,8 +208,6 @@ This project provides hands-on practice with browser automation, TypeScript, tes
 
 Computer Engineering Student | Aspiring Quality Engineer
 
-- GitHub: [YOUR_GITHUB_PROFILE](https://github.com/YOUR_USERNAME)
-- LinkedIn: [YOUR_LINKEDIN_PROFILE](https://www.linkedin.com/)
 
 ---
 
